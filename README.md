@@ -8,7 +8,7 @@ This project focuses on making AI outputs **clear, trustworthy, and actionable**
 
 ## 🚀 Live Demo
 
-👉 https://your-vercel-link.vercel.app
+👉 https://ai-insights-ui-green.vercel.app/
 
 ---
 
